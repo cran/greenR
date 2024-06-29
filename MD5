@@ -1,9 +1,9 @@
-d6782d970ef52913605be178725d310d *DESCRIPTION
+43635f18e5ea56b15766eecbd5a05c0c *DESCRIPTION
 801289347dbc3e0b277efacbd336b637 *NAMESPACE
 2a181b975e96e67758c4fc0393386c2d *R/accessibility_greenspace.R
 240d002466aff5a7220cb3f78b9d6110 *R/accessibility_mapbox.R
 9a066da333e3a4cbab98ffbe4439e5e8 *R/calculate_and_visualize_GVI.R
-778689be792b523dfa2791036943f54a *R/calculate_green_index.R
+7c2d0265028b952b6998d0272857e5e2 *R/calculate_green_index.R
 cfe8e9d77eaa33917bc3b6868f2944d5 *R/calculate_percentage.R
 4365b29978559518eebd26f2b2e90d1e *R/convert_to_point.R
 b691ad6699f813760271bb153ec0b003 *R/create_hexmap_3D.R
@@ -21,7 +21,7 @@ b1a37ebaec5cd71aa59aee1f11e88834 *R/plot_green_index.R
 35acdb3f833adef093e079ec65a99d72 *build/vignette.rds
 36339ce5125e52f5fc7104947b4e67b5 *inst/doc/introduction.R
 8cdc5496b7f1f224308bf1cd8f3cb89f *inst/doc/introduction.Rmd
-97c3cc4c8739f02a6b38b44e995ee7dd *inst/doc/introduction.html
+efd99a26cf55d38a1747c534fd5ddeb2 *inst/doc/introduction.html
 abe1f393596e41cb87c4680b5b7edb42 *inst/shiny/server.R
 9b0e546ca36a2ea2cb8105152aac10d4 *inst/shiny/ui.R
 d55b4692404434eb9c375a6d648f1fb2 *inst/shiny/www/logo.jpg
@@ -52,7 +52,6 @@ e0fb718612d70cb4e58fa339d4cd15b0 *vignettes/hexv.jpg
 8cdc5496b7f1f224308bf1cd8f3cb89f *vignettes/introduction.Rmd
 36d7a9dddf42bdc660470083e3408af8 *vignettes/isochrone.jpg
 c710d720efa06a6240ab1320339e6580 *vignettes/leaflet.jpg
-1cd6095189d3d636f258388ae3223b29 *vignettes/linestring_map.html
 d55b4692404434eb9c375a6d648f1fb2 *vignettes/logo.jpg
 90a592a393777fb34c6c648112453b89 *vignettes/nearest_greenspace.png
 fe323a927aaed5de18e33220482b5fe2 *vignettes/shiny.jpg
